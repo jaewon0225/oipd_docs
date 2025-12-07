@@ -1,10 +1,8 @@
-# OIPD Docs
-
 ## 1. Introduction
 
 ### 1.1. What is OIPD?
 
-OIPD (Options Implied Probability Distribution) is a powerful Python library designed for financial quants, researchers, and traders. It provides a comprehensive toolkit for transforming raw options market data into meaningful, forward-looking probability distributions of a security's future price.
+[OIPD (Options Implied Probability Distribution)](https://github.com/tyrneh/options-implied-probability) is a powerful Python library designed for financial quants, researchers, and traders. It provides a comprehensive toolkit for transforming raw options market data into meaningful, forward-looking probability distributions of a security's future price.
 
 The core mission of OIPD is to democratise access to sophisticated options analysis. By handling the complex mathematics of volatility modeling and risk-neutral density estimation, OIPD allows you to focus on what matters: generating insights, managing risk, and developing novel trading strategies.
 
