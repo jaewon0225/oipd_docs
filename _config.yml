@@ -1,6 +1,6 @@
 title: OIPD Documentation
 description: Options Implied Probability Distribution
-theme: just-the-docs
+remote-theme: just-the-docs
 
 # GitHub Pages
 plugins:
