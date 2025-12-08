@@ -1,0 +1,11 @@
+title: OIPD Documentation
+description: Options Implied Probability Distribution
+theme: just-the-docs
+
+# GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+just_the_docs:
+  search_enabled: true
